@@ -1,0 +1,32 @@
+Brand Identity Standard: Axion
+1. Design Philosophy
+The Axion logo is designed to communicate momentum, precision, and connectivity.
+The Icon: A stylized, fluid "A" that doubles as a path or circuit. The integrated upward-pointing arrow represents scaling, growth, and the "forward-thinking" nature of the brand.
+The Typography: A heavy, geometric sans-serif font provides a grounded, stable base to balance the dynamic energy of the icon.
+2. Color Specifications
+To ensure the logo looks the same on a screen as it does on a physical product, use these specific color codes:
+3. Typography Guide
+Primary Brand Typeface: Montserrat Bold or Inter ExtraBold.
+Usage: Company name (AXION) only.
+Secondary/Tagline Typeface: Montserrat Medium.
+Usage: "Innovation • Technology • Solutions".
+Styling: All Caps with high tracking (+200) to create a "premium" feel.
+4. Visual Proportions & Scaling
+To maintain the integrity of the design, observe the following:
+The "X" Alignment: The tagline is horizontally centered under the "XION" portion of the name, providing a visual anchor.
+Safe Zone: Maintain a "Clear Space" around the logo equal to the width of the letter "N". Do not place text or other graphics within this border.
+Minimum Legibility: * Web: 180px wide (Full Logo).
+Icon Only: 32px x 32px (Favicon/App Icon).
+5. Logo Variations
+Full Logo: The preferred version (Icon + Text) on a white or light grey background.
+Reversed: White text and icon on a "Tech Blue" background for dark mode or merchandise.
+Monochrome: Solid black or solid white for high-contrast documents or official stamps.
+6. Usage Restrictions
+Do Not rotate the icon or the arrow.
+Do Not change the color of the arrow independently of the icon.
+Do Not stretch or distort the proportions of the font.
+---TABLES---
+Color | HEX | RGB | CMYK (Print)
+Tech Blue (Deep) | #005BC5 | (0, 91, 197) | 100, 70, 0, 0
+Innovation Teal | #00D2E0 | (0, 210, 224) | 65, 0, 15, 0
+Slate Charcoal | #333333 | (51, 51, 51) | 0, 0, 0, 85
