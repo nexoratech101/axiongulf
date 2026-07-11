@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# internal source materials (not part of the deployed site)
+/axion-package/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
