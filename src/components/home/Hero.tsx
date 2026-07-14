@@ -9,8 +9,8 @@ export function Hero() {
   return (
     <section className="relative flex min-h-[600px] items-center overflow-hidden sm:min-h-[720px]">
       <Image
-        src="/images/hero-3d-printe.jpg"
-        alt="The UAE skyline, home to Axion's industrial technology operations"
+        src="/images/hero-3d-printer-toolhead.jpg"
+        alt="Close-up of a 3D printer's toolhead with AI LiDAR sensor in operation"
         fill
         priority
         sizes="100vw"
