@@ -43,3 +43,85 @@ h4,
   outline: 2px solid var(--color-tech-blue);
   outline-offset: 2px;
 }
+
+.blog-content {
+  color: rgba(51, 51, 51, 0.85);
+  line-height: 1.75;
+}
+
+.blog-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-slate-charcoal);
+}
+
+.blog-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--color-slate-charcoal);
+}
+
+.blog-content p {
+  margin-bottom: 1.25rem;
+}
+
+.blog-content ul,
+.blog-content ol {
+  margin: 0 0 1.25rem 1.5rem;
+}
+
+.blog-content ul {
+  list-style: disc;
+}
+
+.blog-content ol {
+  list-style: decimal;
+}
+
+.blog-content li {
+  margin-bottom: 0.5rem;
+}
+
+.blog-content a {
+  color: var(--color-tech-blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.blog-content a:hover {
+  color: var(--color-innovation-teal);
+}
+
+.blog-content strong {
+  font-weight: 700;
+  color: var(--color-slate-charcoal);
+}
+
+.blog-content em {
+  font-style: italic;
+}
+
+.blog-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.875rem;
+  overflow-x: auto;
+  display: block;
+}
+
+.blog-content th,
+.blog-content td {
+  border: 1px solid rgba(51, 51, 51, 0.12);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+}
+
+.blog-content th {
+  background: rgba(0, 91, 197, 0.05);
+  font-weight: 700;
+}
