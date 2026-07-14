@@ -23,6 +23,22 @@ export type BlogPost = {
 
 const rawPosts: BlogPost[] = [
   {
+    slug: "5-simple-3d-printer-maintenance-tips-to-keep-your-prints-perfect",
+    title: "5 Simple 3D Printer Maintenance Tips to Keep Your Prints Perfect",
+    category: "3D Printing",
+    tags: ["3D Printing", "Beginners", "Guide", "Maintenance", "Tips"],
+    publishedAt: "2026-07-14",
+    author: "Axion 3D",
+    excerpt:
+      "A well-maintained printer is a reliable printer. Here are five quick habits that keep your machine printing smoothly and your parts coming out clean, print after print.",
+    image: {
+      url: "https://cdn.shopify.com/s/files/1/0926/8297/7652/articles/hero-3d-printer-toolhead-resized.jpg?v=1784009873",
+      alt: "Close-up of a 3D printer's toolhead with AI LiDAR sensor in operation",
+    },
+    bodyHtml:
+      "<p>A 3D printer is a mechanical device, and like any mechanical device, a little regular upkeep goes a long way. Most print failures aren't a filament or design problem — they're a maintenance problem. Here are five simple habits that keep your printer running smoothly.</p><h2>1. Clean the Nozzle Regularly</h2><p>Residue builds up inside the nozzle over time, especially if you switch between filament types often. A cold pull (heating the nozzle, then pulling through a stiff filament like nylon as it cools) clears out debris and prevents clogs before they start. Do this every few dozen print hours, or immediately if you notice under-extrusion.</p><h2>2. Re-Level the Bed Often</h2><p>Bed leveling isn't a one-time setup step — thermal expansion, moving the printer, and normal wear all shift it over time. Most auto-leveling printers make this quick, but it's still worth checking before any print that matters. A bed that's slightly off is the most common cause of poor first-layer adhesion.</p><h2>3. Lubricate the Rods and Rails</h2><p>Smooth, quiet motion depends on clean, lubricated rails. A dry or dusty rail causes uneven layer lines and, over time, extra wear on your belts and motors. A light coat of the lubricant recommended in your printer's manual every month or two keeps everything moving the way it should.</p><h2>4. Check Belt Tension</h2><p>Loose belts show up as ghosting or ringing — faint repeated patterns near sharp corners in your prints. Give your X and Y belts a gentle press; they should feel firm, not loose or overly rigid. Most printers have a simple tensioning screw or clip to fix this in a couple of minutes.</p><h2>5. Keep Firmware and Slicer Software Up to Date</h2><p>Manufacturers regularly release firmware updates that fix bugs, improve calibration, and add new features. It's easy to forget about once a printer is set up and running well, but checking for updates every few months means you're always printing with the most stable, capable version of your machine.</p><h2>The Bottom Line</h2><p>None of this takes long, but skipping it is the fastest way to turn a good printer into an unreliable one. Build these five checks into your routine, and your printer will reward you with consistent, clean results print after print.</p><p>Have questions about keeping your printer in top shape? <a href=\"/pages/contact\">Get in touch with our team</a> — we're always happy to help.</p>",
+  },
+  {
     slug: "top-5-filaments-for-beginners-in-3d-printing",
     title: "Top 5 Filaments for Beginners in 3D Printing",
     category: "3D Printing",
